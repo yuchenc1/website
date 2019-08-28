@@ -155,7 +155,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /static/avatar.jpeg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -278,7 +278,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night bright
+highlight_theme: night 
 
 
 # ---------------------------------------------------------------
@@ -308,7 +308,7 @@ font:
   global:
     external: true
     family: Source Serif Pro
-    size: 16
+    size: 14
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6).
   # Fallback to `global` font settings.
@@ -334,7 +334,7 @@ font:
   codes:
     external: true
     family: Monaco
-    size: 16
+    size: 14
 
 
 # ---------------------------------------------------------------

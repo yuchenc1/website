@@ -6,7 +6,7 @@ tags:
 - Git
 - Config
 categories:
-- Conf
+- Engineering
 ---
 
 When I started my first full-time software engineer job at Snowflake Computing, I felt that the speed of typing terminal commands is very annoying. Sometimes it took more than 2 seconds to finish the command. Finally I found the reason is that I was using zsh. Zsh has the git plugin and it will scan the dirty change after running each command. Snowflake Computing is using a big shared repository, so it is very expensive to scan the whole repo. The only thing I need to do is:
