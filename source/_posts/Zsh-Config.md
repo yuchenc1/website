@@ -241,6 +241,6 @@ Because my company is still using Centos 6. And I used
 $ yum -y install zsh
 ```
 
-Its version is still begins with 4. Now the zsh version would begins with 5. After I downloaded the zsh with version 5, I could find `/etc/zshrc` has the function to load the scripts under `/etc/profile` and my problem was solved.
+Its version still begins with 4. Now the zsh version would begin with 5. After I downloaded the zsh with version 5, I could find `/etc/zshrc` has the function to load the scripts under `/etc/profile` and my problem was solved.
 
 Life is short! Why use Centos 6!
